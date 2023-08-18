@@ -1,0 +1,5 @@
+/node_modules
+/app-old.js
+/public/old
+/public/template
+/.env
